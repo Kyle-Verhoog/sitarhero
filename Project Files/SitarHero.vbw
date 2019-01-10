@@ -1,0 +1,17 @@
+frmGame = 66, 87, 847, 704, , 44, 58, 825, 675, C
+IO = 198, 261, 987, 886, 
+CollisionFunctions = 66, 87, 855, 712, 
+Variables = 110, 145, 899, 770, 
+HitNote = 132, 174, 921, 799, 
+MissedNote = 0, 0, 789, 625, 
+WriteCheer = 66, 87, 855, 712, 
+WriteBoo = 88, 116, 877, 741, 
+ClearFile = 0, 0, 789, 625, 
+frmSongEditor = 74, 105, 863, 730, , 132, 174, 921, 799, C
+frmLoadGame = 0, 0, 968, 530, , -144, 13, 827, 543, C
+SaveProject = 0, 0, 786, 625, 
+LoadProject = 22, 29, 808, 654, 
+frmGameOver = 154, 203, 1162, 667, , 132, 174, 1140, 638, C
+frmPauseMenu = 22, 29, 1074, 401, , 0, 0, 1052, 372, C
+frmStats = 110, 145, 1140, 530, Z, 88, 116, 1118, 501, C
+frmOptions = 22, 29, 1052, 414, , 0, 0, 1030, 385, C
